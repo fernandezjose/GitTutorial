@@ -11,6 +11,9 @@
 6666
 This is a change in the new branch...
 
+This is a modification from hotfix
+
+
 
 git remote add origin git@github.com:ppcuban/GitTutorial.git
 git push -u origin master
